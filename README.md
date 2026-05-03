@@ -8,6 +8,11 @@ Create a light-based distance sensor using an LED and LDR (Light-dependent resis
 Cool, bruh.
 
 
+# Video
+
+TODO
+
+
 # References
 1. https://store-usa.arduino.cc/products/arduino-nano
     1. https://content.arduino.cc/assets/Pinout-NANO_latest.pdf
