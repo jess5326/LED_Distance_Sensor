@@ -15,7 +15,7 @@ Cool, bruh.
 
 
 # Notes
-V = IR
+V = IR  
 R = V/I = (5-3)V/0.016A = 125 Ohms
 
 
